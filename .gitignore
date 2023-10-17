@@ -1,0 +1,13 @@
+/__pycache__
+.vscode
+
+Pipfile.lock
+
+Littlelemon/__init__.py
+Littlelemon/.env
+
+LittlelemonAPI/__pycache__
+LittlelemonAPI/migrations
+LittlelemonAPI/__init__.py
+
+db.sqlite3
